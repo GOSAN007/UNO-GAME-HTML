@@ -91,7 +91,7 @@ MIT License
 
 ## 作者
 
-GOSAN007
+GOSAN007 (soratech.ai@gmail.com)
 
 ## 貢献
 
