@@ -1,5 +1,7 @@
 # UNO Game HTML
 
+![Game Screenshot](game.png)
+
 ## Overview
 
 A simple UNO game built with HTML that can be played easily in a web browser. This game provides a Japanese-language UNO experience that's accessible and fun.
